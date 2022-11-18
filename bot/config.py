@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "5682134949:AAFGGLWhqeNbo3K3DueTUR6wcBjgQoSy3zw" 
     APP_ID = "4117982"
     API_HASH = "b2c24493550654e2b3f09d00a4f36c15"
-    DATABASE_URL = "https://data.heroku.com/datastores/7a75b346-d330-49c4-90d9-cd774df8e3a7"
+    DATABASE_URL = "postgres://jxnpsswvcesfog:cf6f3b02594a4f709fa7424a930b1b2f000ce118fd36d785bd034f76b4704608@ec2-3-219-135-162.compute-1.amazonaws.com:5432/d23qlq68mp7mb"
     SUDO_USERS = "637471660" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
